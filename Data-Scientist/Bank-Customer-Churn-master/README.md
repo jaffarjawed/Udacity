@@ -2,7 +2,7 @@
 <h1> Project Motivation </h1>
 
 <p> 
-  Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), Bank churn modelling dataset is used which is initially hosted on kaggel platform. Three bisinuess questions were asked and answered:
+  Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), Bank churn modelling dataset is used which is initially hosted on Kaggle platform. Three bisinuess questions were asked and answered:
   </p>
   
  <ul>
@@ -19,7 +19,7 @@ Question 2: Which customer has higher churning rate one who uses our services li
   </ul>
   <h1> Requirements</h1>
   <ul>
-  <li>  TEnsorflow</li>
+  <li>  Tensorflow</li>
    <li> Keras</li>
    <li> SK Learn</li>
    <li> Pandas</li>
